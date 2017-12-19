@@ -1,3 +1,2 @@
-# MIT_6.0001
-homeworks
-2016
+# MIT_6.0001(2016)
+practice
